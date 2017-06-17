@@ -1,0 +1,43 @@
+body{
+	background-color: hotpink;
+	
+	margin:0 auto;
+	line-height: 150%
+}
+header{
+	background-color: black;
+	margin:10px;
+	padding:20px;
+	text-align: center;
+}
+h1{
+	font-size: 20px;
+	font-family: 'Arial',Times New Roman,Times,Serif;
+	color:white;
+}
+
+.block{
+width:1024px;
+margin:0 auto;
+}
+
+#contact,#new,img{
+float:left;
+
+}
+a{
+	color:red;
+}
+
+#contact{
+	width:70%;
+}
+
+#new{
+	width:30%;}
+	
+img {
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+}
